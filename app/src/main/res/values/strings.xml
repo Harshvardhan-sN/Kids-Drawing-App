@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kids Drawing App</string>
+    <string name="contentDecription">myImgButton</string>
+    <string name="reset">Reset</string>
+</resources>
